@@ -1,5 +1,5 @@
 {
-  "name": "@asitcemk/text-package",
+  "name": "text-package",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
